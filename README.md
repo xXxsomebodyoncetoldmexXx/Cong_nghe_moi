@@ -3,7 +3,7 @@
 * MSSV: 17100261
 * Hosting server: Amazon Web Services (AWS)
 * Ứng dụng: [Phần mềm rút gọt link Polr](https://github.com/cydrobolt/polr)
-* Link web: [http://18.141.192.162](http://18.141.192.162)
+* Link web: [http://54.179.39.47](http://54.179.39.47)
 
 ### Sử dụng:
 ![Trang chủ](main_page.png)
